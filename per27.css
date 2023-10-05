@@ -1,0 +1,30 @@
+div{
+
+                    background-color: rgb(203, 172, 172); 
+                    padding: 20px;  border: 5px;
+                    
+                    } 
+input[type=text], select{
+                    
+                    width: 100%;
+                    padding: 15px 20px;
+                    margin: 7px 0; 
+                    display: inline-block;
+                    border-radius: 5px;
+                    box-sizing: border-box;
+                    border: 1px solid #efeded;
+}
+input[type=submit]{
+                    
+                    width: 100%;
+                    padding: 15px 20px;
+                    margin: 8px 0; 
+                    border: none;
+                    color: #fff;
+                    background-color: #45A049;
+                    cursor: pointer; 
+                    border-radius: 5px;
+                    
+                    }
+                    
+                    
